@@ -10,3 +10,6 @@ Steps for successful download and run the application:-
 6. To open xml section click on app then go on res folfer then layout to check layouts and xml file .
 7. To run the application click on run app, after this android app will open then if you are new then register with your name, email, and password and if you already have account then login with email and password . 
 
+Existing Account:-
+username - user@gmail.com
+password- User1234
